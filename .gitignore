@@ -1,0 +1,9 @@
+# Directorios de construcción
+/target/
+/out/
+
+# Archivos de configuración del IDE
+*.iml
+.idea/
+*.class
+*.log
